@@ -1,0 +1,22 @@
+{
+  "seller": [
+    {
+      "id": "df25",
+      "name": "harshit sharma",
+      "email": "harshit@gmail.com",
+      "password": "abcd"
+    },
+    {
+      "id": "490a",
+      "name": "random sharma",
+      "email": "random@gmail.com",
+      "password": "abcd"
+    },
+    {
+      "id": "dea4",
+      "name": "peter",
+      "password": "asc@1234",
+      "email": "peter@test.com"
+    }
+  ]
+}
